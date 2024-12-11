@@ -5,7 +5,7 @@
 </div>
 
 # Overview
-Methodology implementation for the <a href='https://eeg-music-challenge.github.io/eeg-music-challenge/'>EEG-Music Emotion Recognition Grand Challenge</a> hosted at <a href='https://2025.ieeeicassp.org/sp-grand-challenges/#gc5'>ICASSP2025</a>.
+Methodology implementation for the <a href='https://eeg-music-challenge.github.io/eeg-music-challenge/'>EEG-Music Emotion Recognition Grand Challenge</a>.
 
 # Methods
 
