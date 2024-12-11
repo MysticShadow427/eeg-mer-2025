@@ -10,7 +10,7 @@
 #SBATCH --gpus-per-task=1
 #SBATCH --mem-per-cpu=32G                       # Memory per CPU (32GB total for 8 CPUs)
 
-export WANDB_API_KEY="4c74cebb36eb69a8d84981027787f7e3015b8e2b"
+export WANDB_API_KEY=""
 
 module use /apps/generic/modulefiles 
 module load miniconda3                   
