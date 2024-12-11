@@ -1,7 +1,6 @@
 <div align="center">
 
-# Code for EEG-Music Emotion Recognition Grand Challenge at ICASSP 2025
-Devendra Deepak Kayande, Zhengjun Yue
+# Code for EEG-Music Emotion Recognition Grand Challenge 
 
 </div>
 
@@ -105,14 +104,3 @@ Running inference on **emotion recognition** will create two csv files:
 Each csv has only two columns:
 - **id**: the id of the sample
 - **prediction**: the predicted class
-
-
-# ./wandb/run-20241025_103243-7erk58mn/logs ,id = 4835217 96.97% 
-# Find logs at: ./wandb/run-20241025_062059-liq7qkyd/logs, id = 4833538, 95.02%
-
-# try out vit
-# now try the supconlosses and other rnn projection based network also try the subject loss mam said
-# this gave 38.46% accuracy lr = 0.0001 and epochs = 100 slurm id - 491..
-
-#  https://wandb.ai/iec2021088/subject_identification/runs/u6wde6hd
-# ./wandb/run-20241111_105500-u6wde6hd/logs, 4938014
