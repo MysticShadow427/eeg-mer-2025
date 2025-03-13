@@ -6,6 +6,7 @@
 
 # Overview
 Methodology implementation for the <a href='https://eeg-music-challenge.github.io/eeg-music-challenge/'>EEG-Music Emotion Recognition Grand Challenge</a>.
+Methodology Document - <a href='https://docs.google.com/document/d/1Y1Q9R3NOnkZF6mzRyadd86fKvfaoo9H03e3PM4V_Arw/edit?usp=sharing'>Approach</a>.
 
 # Methods
 
